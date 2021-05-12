@@ -4,9 +4,10 @@
         "dotenv": "^9.0.2",
         "express": "^4.17.1",
         "mongoose": "^5.12.8",
-        "nodemon": "^2.0.7"
+        "nodemon": "^2.0.7",
+        "nvm": "^0.0.4"
     },
-    "name": "api_ec",
+    "name": "node_api_eccommerce",
     "version": "1.0.0",
     "main": "index.js",
     "author": "ledsonvanini <ledsonvanini@gmail.com>",
@@ -17,5 +18,6 @@
         "dev": "nodemon src/index.js",
         "start": "node src/index.js"
     },
-    "description": ""
+    "description": "",
+    "repository": "https://github.com/ledsonvanini/node_api_eccommerce.git"
 }
